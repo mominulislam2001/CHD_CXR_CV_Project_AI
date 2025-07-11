@@ -7,17 +7,22 @@ training:
   epochs: 30
   learning_rate: 0.0001
   seed: 1024
+  resume: true
+  resume_model: "mobilenet_v2"   # model to resume incase of error or shutdown
+  resume_epoch: 12
+
 
 models:
-  - name: "resnet18"
+
+  - name: "mobilenet_v2"
     pretrained: true
 
-  - name: "resnet50"
-    pretrained: true
-
-  - name: "densenet121"
+  - name: "squeezenet1_1"
     pretrained: true
 
 mlflow:
   experiment_name: "CHD-CXR-Experiments"
   tracking_uri: "file:./experiments/mlruns"
+
+
+

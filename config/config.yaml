@@ -8,17 +8,14 @@ training:
   learning_rate: 0.0001
   seed: 1024
   resume: true
-  resume_model: "mobilenet_v2"   # model to resume incase of error or shutdown
-  resume_epoch: 12
+  resume_model: "densenet121"   # model to resume incase of error or shutdown
+  resume_epoch: 29
 
 
 models:
-
-  - name: "mobilenet_v2"
+  - name: "densenet121"
     pretrained: true
 
-  - name: "squeezenet1_1"
-    pretrained: true
 
 mlflow:
   experiment_name: "CHD-CXR-Experiments"

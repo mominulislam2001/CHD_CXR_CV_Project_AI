@@ -1,0 +1,13 @@
+aliases: []
+creation_timestamp: 1752421496273
+current_stage: None
+description: ''
+last_updated_timestamp: 1752421496273
+name: MobileNet_V2_e30_FINISHED
+run_id: a28f1f1edaf746fb838c2ec582d85406
+run_link: ''
+source: file:///media/ayan/Ayan/AI Course Project/chd_cxr_project/experiments/mlruns/175872875311093864/a28f1f1edaf746fb838c2ec582d85406/artifacts/mobilenet_v2_final_model
+status: READY
+status_message: null
+user_id: null
+version: 1

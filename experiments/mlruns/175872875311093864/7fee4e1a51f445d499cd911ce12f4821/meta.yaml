@@ -1,0 +1,15 @@
+artifact_uri: file:///media/ayan/Ayan/AI Course Project/chd_cxr_project/experiments/mlruns/175872875311093864/7fee4e1a51f445d499cd911ce12f4821/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '175872875311093864'
+lifecycle_stage: active
+run_id: 7fee4e1a51f445d499cd911ce12f4821
+run_name: resnet50
+run_uuid: 7fee4e1a51f445d499cd911ce12f4821
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1752175186981
+status: 1
+tags: []
+user_id: ayan

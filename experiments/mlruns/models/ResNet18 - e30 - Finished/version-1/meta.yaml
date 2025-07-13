@@ -1,0 +1,13 @@
+aliases: []
+creation_timestamp: 1752218466594
+current_stage: None
+description: ''
+last_updated_timestamp: 1752218466594
+name: ResNet18 - e30 - Finished
+run_id: ee373af52b234d9bab99184d21c1e043
+run_link: ''
+source: file:///media/ayan/Ayan/AI Course Project/chd_cxr_project/experiments/mlruns/175872875311093864/ee373af52b234d9bab99184d21c1e043/artifacts/resnet18_final_model
+status: READY
+status_message: null
+user_id: null
+version: 1

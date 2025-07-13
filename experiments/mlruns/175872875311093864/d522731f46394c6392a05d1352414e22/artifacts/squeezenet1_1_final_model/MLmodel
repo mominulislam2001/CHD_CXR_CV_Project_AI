@@ -1,0 +1,18 @@
+artifact_path: squeezenet1_1_final_model
+flavors:
+  python_function:
+    data: data
+    env:
+      conda: conda.yaml
+      virtualenv: python_env.yaml
+    loader_module: mlflow.pytorch
+    pickle_module_name: mlflow.pytorch.pickle_module
+    python_version: 3.9.21
+  pytorch:
+    code: null
+    model_data: data
+    pytorch_version: 2.5.1+cu124
+mlflow_version: 2.5.0
+model_uuid: ba7fc30fb38c45ae82d1687b567f6ea7
+run_id: d522731f46394c6392a05d1352414e22
+utc_time_created: '2025-07-11 13:06:23.493789'

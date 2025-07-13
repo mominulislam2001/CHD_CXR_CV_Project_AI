@@ -1,0 +1,15 @@
+artifact_uri: file:///media/ayan/Ayan/AI Course Project/chd_cxr_project/experiments/mlruns/175872875311093864/f59f265d553a4310b024c2126ae0eb6f/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '175872875311093864'
+lifecycle_stage: active
+run_id: f59f265d553a4310b024c2126ae0eb6f
+run_name: mobilenet_v2
+run_uuid: f59f265d553a4310b024c2126ae0eb6f
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1752227648814
+status: 1
+tags: []
+user_id: ayan

@@ -1,0 +1,15 @@
+artifact_uri: file:///media/ayan/Ayan/AI Course Project/chd_cxr_project/experiments/mlruns/175872875311093864/76eb4a11617244d98e4d9f307dd90165/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '175872875311093864'
+lifecycle_stage: active
+run_id: 76eb4a11617244d98e4d9f307dd90165
+run_name: densenet121
+run_uuid: 76eb4a11617244d98e4d9f307dd90165
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1752239591357
+status: 1
+tags: []
+user_id: ayan

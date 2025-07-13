@@ -1,0 +1,18 @@
+artifact_path: densenet121_final_model
+flavors:
+  python_function:
+    data: data
+    env:
+      conda: conda.yaml
+      virtualenv: python_env.yaml
+    loader_module: mlflow.pytorch
+    pickle_module_name: mlflow.pytorch.pickle_module
+    python_version: 3.9.21
+  pytorch:
+    code: null
+    model_data: data
+    pytorch_version: 2.5.1+cu124
+mlflow_version: 2.5.0
+model_uuid: 9cab2fd1ad5e40fda98d91040c7a5bde
+run_id: 9988c6fdf5b0452bb8a48797b1a54ee5
+utc_time_created: '2025-07-12 13:41:33.059160'

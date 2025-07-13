@@ -1,0 +1,18 @@
+artifact_path: resnet18_final_model
+flavors:
+  python_function:
+    data: data
+    env:
+      conda: conda.yaml
+      virtualenv: python_env.yaml
+    loader_module: mlflow.pytorch
+    pickle_module_name: mlflow.pytorch.pickle_module
+    python_version: 3.9.21
+  pytorch:
+    code: null
+    model_data: data
+    pytorch_version: 2.5.1+cu124
+mlflow_version: 2.5.0
+model_uuid: c436fc19724e499dad7aaa36e61dfe9f
+run_id: ee373af52b234d9bab99184d21c1e043
+utc_time_created: '2025-07-10 19:18:34.693778'

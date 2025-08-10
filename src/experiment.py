@@ -17,7 +17,7 @@ def run():
     mlflow.set_tracking_uri(config['mlflow']['tracking_uri'])
     mlflow.set_experiment(config['mlflow']['experiment_name'])
 
-    device = torch.device("cpu")  # or 'cuda' if you switch later
+    device = torch.device("cpu")  #
 
     train_loader, val_loader = get_dataloaders(config)
     num_classes = len(train_loader.dataset.dataset.classes)

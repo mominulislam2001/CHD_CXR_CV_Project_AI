@@ -1,0 +1,4 @@
+metric,value
+accuracy,0.963855421686747
+macro_auc,0.9991906934917965
+micro_auc,0.998802438670344

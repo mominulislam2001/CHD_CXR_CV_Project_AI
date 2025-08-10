@@ -1,6 +1,6 @@
-artifact_location: mlflow-artifacts:/0
-creation_time: 1752227701868
+artifact_location: file:///media/ayan/Ayan/AI%20Course%20Project/chd_cxr_project/mlruns/0
+creation_time: 1753948654484
 experiment_id: '0'
-last_update_time: 1752227701868
+last_update_time: 1753948654484
 lifecycle_stage: active
 name: Default
